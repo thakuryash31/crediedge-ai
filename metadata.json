@@ -1,0 +1,6 @@
+{
+  "name": "CrediEdge AI",
+  "description": "MSME Cash Flow Underwriting & Bank Statement Risk Engine with AI transaction categorization",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
